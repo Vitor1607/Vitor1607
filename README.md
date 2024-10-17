@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Vitor1607/Vitor1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer, And I'm Studying web developement at [Rocketseat](https://rocketseat.com.br/).     
+I Study to Computer Science at [Cruzeiro do Sul](https://www.cruzeirodosulvirtual.com.br/).
 
-Here are some ideas to get you started:
+#### Current Stack
+- ⚡️ Main language: `Javascript`
+- 🎉 Frontend: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 📦️ Version code control: `Git & Github`
+- 🔨 Tools: `VsCode`
+- 🌎 I'm mostly active within the `Rocketseat Community`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+
+- 📬 Email: Lira62183@gmail.com
+- 👤 Linkedin: www.linkedin.com/in/devfrontendvitorlira
